@@ -9,4 +9,4 @@ It is based on Spotify API
  when you need to get spotify_token  
  coz you'll need to take that from https://developer.spotify.com  
  **When you apply for token be sure you have playlist-modify-public,playlist-modify-private and user-read-recently-played selected**
- ### have a nice day
+ ### have a nice day :)
